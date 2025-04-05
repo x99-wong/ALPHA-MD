@@ -1,6 +1,6 @@
 
 
-<h1 align="center">𝗔𝗟𝗣𝗛𝗔-𝗠𝗗</h1>
+<h1 align="center">XXXWONGTOCION</h1>
 
 <h1 align="center">Survival is winning, frankline everything else is bullshit, fairy tales spun by people afraid to look life in the eye, do whatever it takes kid, survive 😏🙏</h1>
 
@@ -20,7 +20,7 @@
       <b>FORK</b><br>
       Fork the repository to customize and use the bot for your needs.
       <br><br>
-      <a href="https://github.com/keithkeizzah/ALPHA-MD/fork">
+      <a href="https://github.com/keithkeizzah/XXXWONGTOCION/fork">
         <img src="https://img.shields.io/badge/FORK-purple" alt="FORK KEITH" width="150">
       </a>
     </td>
